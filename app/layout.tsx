@@ -10,8 +10,8 @@ export const metadata: Metadata = {
   title: "CHOG Agent",
   description: "Token analyzer powered by CHOG",
   icons: {
-    icon: "https://ibb.co/BH2G991r",
-    apple: "https://ibb.co/jPWnQ1mx",
+    icon: "https://i.postimg.cc/rFpnY7sc/fotiyo-(1).png",
+    apple: "https://i.postimg.cc/rFpnY7sc/fotiyo-(1).png",
   },
     generator: 'v0.app'
 }
