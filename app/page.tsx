@@ -45,7 +45,7 @@ export default function Home() {
 
             <Button
               onClick={() => {
-                navigator.clipboard.writeText("CHOGmonadtoken")
+                navigator.clipboard.writeText("hi")
                 alert("CA copied to clipboard!")
               }}
               variant="outline"
