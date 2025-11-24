@@ -45,7 +45,7 @@ export default function Home() {
 
             <Button
               onClick={() => {
-                navigator.clipboard.writeText("hi")
+                navigator.clipboard.writeText("0xb6e8b18669351f3e353cd7c6d6261f9193307777")
                 alert("CA copied to clipboard!")
               }}
               variant="outline"
