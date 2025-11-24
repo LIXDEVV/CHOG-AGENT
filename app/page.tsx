@@ -26,7 +26,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-6xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-300 via-fuchsia-300 to-purple-300 mb-6">
-            CHOG Agent
+            Monad Agent
           </h1>
 
           <p className="text-xl md:text-2xl text-purple-200 mb-8 max-w-2xl mx-auto leading-relaxed">
