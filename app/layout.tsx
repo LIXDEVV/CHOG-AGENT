@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "CHOG Agent",
+  title: "Monad Agent",
   description: "Token analyzer powered by CHOG",
   icons: {
     icon: "https://i.postimg.cc/rFpnY7sc/fotiyo-(1).png",
